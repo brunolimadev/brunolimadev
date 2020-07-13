@@ -1,16 +1,24 @@
-### Hi there 👋
+### Heyyy guys, nice to meet you 😎
 
-<!--
-**brunolimadev/brunolimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A collaborative and dynamic professional, passionate about technology and trends in the digital area.
 
-Here are some ideas to get you started:
+Graduated in Internet Systems at Faculdade de Informática e Administração Paulista (FIAP),
+has over 6 years of experience in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It is always looking for updates, specializations, news and challenges in the technology area.
+
+### Main skills:
+- Full Stack Developer (Node.js, Javascript, HTML, CSS, SASS, React, React Native, TypeScript)
+- Docker
+- Git (Version Control)
+- SQL and NoSql database (MongoDB)
+- Technical leader
+- Wordpress (CMS)
+- Firewall (Kerio Control)
+- Infra (Network Administrator)
+- User Interface (Photoshop, Adobe XD and Figma)
+
+🚀 "Long life learning" =)
+
+
+

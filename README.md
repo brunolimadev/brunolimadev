@@ -8,7 +8,7 @@ has over 6 years of experience in web development.
 It is always looking for updates, specializations, news and challenges in the technology area.
 
 ### Main skills:
-- Full Stack Developer (Node.js, Javascript, HTML, CSS, SASS, React, React Native, TypeScript)
+- Full Stack Developer (Node.js, Javascript, HTML, CSS, SASS, Angular, TypeScript)
 - Docker
 - Git (Version Control)
 - SQL and NoSql database (MongoDB)

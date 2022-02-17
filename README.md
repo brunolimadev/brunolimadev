@@ -8,10 +8,10 @@ has over 6 years of experience in web development.
 It is always looking for updates, specializations, news and challenges in the technology area.
 
 ### Main skills:
-- Full Stack Developer (Node.js, Javascript, HTML, CSS, SASS, Angular 2+, TypeScript)
+- Full Stack Developer (Node.js, Javascript, HTML, CSS, SASS, React, Angular 2+, TypeScript)
 - Docker
 - Git (Version Control)
-- SQL and NoSql database (MongoDB)
+- SQL and NoSql database (MongoDB, FaunaFB, Firebase, Supabase)
 - Technical leader
 - Wordpress (CMS)
 - Firewall (Kerio Control)
